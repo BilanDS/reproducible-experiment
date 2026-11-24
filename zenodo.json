@@ -1,0 +1,20 @@
+{
+  "title": "Reproducible Benchmark Environment for Machine Learning Experiments",
+  "description": "Повний відтворюваний пакет обчислювального експерименту, що включає код, Docker-контейнер та зафіксовані логи MLflow.",
+  "creators": [
+    {
+      "name": "Білан, Дмитро",
+      "affiliation": "Хмельницький національний університет",
+      "orcid": "0000-0000-0000-0000"
+    }
+  ],
+  "access_right": "open",
+  "license": "MIT",
+  "keywords": [
+    "reproducibility",
+    "machine learning",
+    "docker",
+    "mlflow",
+    "open science"
+  ]
+}
